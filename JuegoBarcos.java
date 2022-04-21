@@ -2,6 +2,8 @@ package tema4;
 
 import java.util.Scanner;
 
+//Este es un comentario para la tarea de Github Desktop
+
 public class JuegoBarcos {
 
 	// Tablero de juego
